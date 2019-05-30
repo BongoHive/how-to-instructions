@@ -1,15 +1,15 @@
-# how-to-instructions
+# How-to-instructions
 This repository shows instructions on how to access, work on and submit course assignments
 
 # Getting started
 
-If you are among the selected ones to take this program. This will guid you on how to access, work on and submit your assignment.
+If you are among the selected ones to take this program. This will guide you on how to access, work on and submit your assignment.
 
 # Accessing the course
 
 You will be sent a link to a course or course to submited email addresses. When you click on the link you will be directed to a github repository were you will see the selected course.
 
-You need to have a github account inorder to do any of these assignments/courses. If you do not have one make one.
+You need to have a github account inorder for you to do any of these assignments/courses. If you do not have one make one.
 
 # Working on an assignment
 
@@ -26,7 +26,7 @@ To submit assignment for a course if not instructed do the following
 
 # What if i face a problem?
 
-When you face a problem as you work on an assignment do the following
+When you face a problem as you work on any assignment, do the following
 
 - Create an issue on github for this assignment repository and it will be addressed by Bongohive team
 
@@ -36,12 +36,12 @@ We encourage you to take these assignment serious and are free to search the Int
 
 # How about deadlines?
 
-You need to submit your assignment before the deadline andy submition after the deadline will not be considered
+You need to submit your assignment before the deadline, any submition after the deadline will not be considered
 
 
 # When am done what is next?
 
-Ypou will be guided on the next phase of this internship program once you are done
+You will be guided on the next phase of this internship program once you are done
 
 # prerequisites
 
