@@ -51,7 +51,7 @@ You will need to have some basic github knowledge and account for you to be able
 - add, commit and push a repository to github
  
 
-                                                  ALL THE BEST
+                                           ALL THE BEST FROM BONGOHIVE TEAM
 
 
 
