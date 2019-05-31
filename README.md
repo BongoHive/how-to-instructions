@@ -7,14 +7,11 @@ If you are among the selected ones to take this program. This will guide you on 
 
 ## Tools
 
-  - Atom
-    Download https://atom.io/
+  - Atom Download it [here](https://atom.io/)
 
-  - Vscode
-    Download https://code.visualstudio.com/download
+  - Vscode Download it [here](https://code.visualstudio.com/download)
 
-  - Sublime Text 3
-    Download https://www.sublimetext.com/3
+  - Sublime Text 3 Download it [here](https://www.sublimetext.com/3)
 
 ## Why do I need a code editor
 
