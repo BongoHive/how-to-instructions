@@ -5,6 +5,21 @@ This repository shows instructions on how to access, work on and submit course a
 
 If you are among the selected ones to take this program. This will guide you on how to access, work on and submit your assignment.
 
+## Tools
+
+  - Atom
+    Download https://atom.io/
+
+  - Vscode
+    Download https://code.visualstudio.com/download
+
+  - Sublime Text 3
+    Download https://www.sublimetext.com/3
+
+#### Why do I need a code editor
+
+Editors have built-in knowledge of the programming languages and processes commonly used by programmers, which is intended to increase the productivity of the programmers. They also help to format your code for easy of readability and understanding.
+
 ## What if i face a problem?
 
 When you face a problem as you work on any assignment, do the following
@@ -35,7 +50,7 @@ You will need to have some basic github knowledge and account for you to be able
 - add, commit and push a repository to github
  
 
-                                           ALL THE BEST FROM BONGOHIVE TEAM
+                                           ALL THE BEST FROM BONGOHIVE TEAM!
 
 
 
