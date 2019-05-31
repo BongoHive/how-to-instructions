@@ -40,7 +40,7 @@ You will be guided on the next phase of this internship program once you have su
 
 You will need to have some basic github knowledge and account for you to be able to do these assignments. Read up on how to:
 
-- Folk a repository
+- Fork a repository
 - Clone a repository
 - Creating a pull request
 - Requesting for a code review
