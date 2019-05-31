@@ -40,11 +40,11 @@ You will be guided on the next phase of this internship program once you have su
 
 You will need to have some basic github knowledge and account for you to be able to do these assignments. Read up on how to:
 
-- folk a repository
-- clone a repository
-- creating a pull request
-- requesting for a code review
-- add, commit and push a repository to github
+- Folk a repository
+- Clone a repository
+- Creating a pull request
+- Requesting for a code review
+- Add, commit and push a repository to github
  
 
                                            ALL THE BEST FROM BONGOHIVE TEAM!
