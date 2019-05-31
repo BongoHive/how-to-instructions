@@ -5,6 +5,21 @@ This repository shows instructions on how to access, work on and submit course a
 
 If you are among the selected ones to take this program. This will guide you on how to access, work on and submit your assignment.
 
+## Tools
+
+-  Atom
+https://atom.io/
+
+- Vscode
+https://code.visualstudio.com/download
+
+-  Sublime Text 3
+https://www.sublimetext.com/3
+
+#### Why do I need a code editor
+
+Editors have built-in knowledge of the programming languages and processes commonly used by programmers, which is intended to increase the productivity of the programmers.
+
 ## What if i face a problem?
 
 When you face a problem as you work on any assignment, do the following
