@@ -49,6 +49,6 @@ You will need to have some basic github knowledge and account for you to be able
 
                                            ALL THE BEST FROM BONGOHIVE TEAM!
 
-
+Please note asignments importing times may vary, so we advise that you click on all links ahead of time
 
 
