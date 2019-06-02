@@ -5,7 +5,7 @@ This repository shows instructions on how to access, work on and submit course a
 
 If you are among the selected ones to take this program. This will guide you on how to access, work on and submit your assignment.
 
-## Tools
+## Tools(You only need one of these)
 
   - Atom Download it [here](https://atom.io/)
 
