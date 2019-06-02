@@ -5,13 +5,18 @@ This repository shows instructions on how to access, work on and submit course a
 
 If you are among the selected ones to take this program. This will guide you on how to access, work on and submit your assignment.
 
-## Tools(You only need one of these)
+## Tools(You only need one of text editors)
 
   - Atom Download it [here](https://atom.io/)
 
   - Vscode Download it [here](https://code.visualstudio.com/download)
 
   - Sublime Text 3 Download it [here](https://www.sublimetext.com/3)
+  
+  - Git Bash Download it [here](https://gitforwindows.org/)
+  
+  - Github Desktop Dowload it [here](https://desktop.github.com/)
+
 
 ## Why do I need a code editor
 
