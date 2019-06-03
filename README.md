@@ -15,7 +15,7 @@ If you are among the selected ones to take this program. This will guide you on 
   
   - Git Bash Download it [here](https://gitforwindows.org/)
   
-  - Github Desktop Dowload it [here](https://desktop.github.com/)
+  - Github Desktop Download it [here](https://desktop.github.com/)
 
 
 ## Why do I need a code editor
